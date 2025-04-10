@@ -89,9 +89,9 @@
 <!-- Hero Section -->
 <section class="hero">
     <div class="container hero-content">
-        <h1 class="display-4" data-aos="fade-down">Hi, I'm Mahdi Jamaludin</h1>
-        <p class="lead" data-aos="fade-up" data-aos-delay="200">A passionate developer sharing my journey</p>
-        <a href="#about" class="btn btn-warning btn-lg mt-3" data-aos="zoom-in" data-aos-delay="400">Explore Portfolio</a>
+        <h1 class="display-4" data-aos="fade-down">My Porto Mahdi Jamaludin</h1>
+        <p class="lead" data-aos="fade-up" data-aos-delay="200">Perjalanan Sebagai Mahasiswa BINUS</p>
+        <a href="#about" class="btn btn-warning btn-lg mt-3" data-aos="zoom-in" data-aos-delay="400">NEXT</a>
     </div>
 </section>
 
