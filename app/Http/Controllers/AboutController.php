@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 
 class AboutController extends Controller {
     public function index() {
-        $about = \App\Models\About::first(); // Ambil data pertama
-        return view('admin.about.index', compact('about')); // Arahkan ke folder yang benar
+        $about = \App\Models\About::first(); 
+        return view('admin.about.index', compact('about')); 
     }
     
 
